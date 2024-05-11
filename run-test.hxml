@@ -1,0 +1,6 @@
+--library hx-thenable
+--library result
+--class-path hx/src
+--class-path hx/test
+--main hxSyncThenableTest.MainTest
+--interp

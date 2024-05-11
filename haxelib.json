@@ -1,0 +1,20 @@
+{
+    "name": "hx-sync-thenable",
+    "license": "MIT",
+    "tags": [
+        "hx-sync-thenable",
+        "hxSyncThenable"
+    ],
+    "description": "Class syncronus implemepts Thenable and IO for multiplatform",
+    "contributors": [
+        "Anatoly-Starodubstev"
+    ],
+    "releasenote": "See https://github.com/mnemesong/hx-sync-thenable/blob/main/README.md",
+    "version": "0.0.1",
+    "url": "https://github.com/mnemesong/hx-sync-thenable/",
+    "classPath": "hx/src",
+    "dependencies": {
+        "result": "",
+        "hx-thenable": ""
+    }
+}
