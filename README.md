@@ -1,2 +1,2 @@
-# hx-syncsys-thenable
+# hx-sync-thenable
 Class syncronus implemepts Thenable and IO for multiplatform
